@@ -1,14 +1,14 @@
 //
-//  WaterAppApp.swift
-//  WaterApp
+//  Water_ReminderApp.swift
+//  Water Reminder
 //
-//  Created by Darlyn Villanueva on 5/11/25.
+//  
 //
 
 import SwiftUI
 
 @main
-struct WaterRemindApp: App {
+struct Water_ReminderApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
